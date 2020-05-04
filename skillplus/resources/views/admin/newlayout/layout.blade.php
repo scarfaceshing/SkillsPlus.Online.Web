@@ -304,6 +304,7 @@
         });
         @endif
 
+    //changes
         $(document).ready(function() {
             $('#datatable-details').DataTable();
         });
